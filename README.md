@@ -28,4 +28,4 @@ le fichier APJCMMOL.py est le fichier qui contient toutes les petites applicatio
 
 voici une photo de l'application BluesShades():
 
-![Screenshot]
+![Screenshot](BluesShades.png)
